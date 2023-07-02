@@ -1,0 +1,9 @@
+Id: luxafor.pomodoro.timer.software
+Name: My App
+Publisher: scriptkiddie4
+Version: 1.0.0
+License: scriptkiddie4
+InstallerType: zip
+InstallerUrl: https://www.luxaformanual.com/_files/archives/b41627_031bcebfeed64d47863e8d3605536f81.zip?dn=luxafor_win_v2.1.5.26-1.zip
+SilentInstallerArgs: /silent
+Locale: da-DK
